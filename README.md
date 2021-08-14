@@ -1,2 +1,2 @@
-# JiGaNn.github.io
+# Евгений Афанасьев
 My first website
