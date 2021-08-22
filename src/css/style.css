@@ -1,0 +1,263 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+.Logo{
+    float: left;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    color: #fff;
+}
+.menu{
+    float: left;
+    padding-left: 432px;
+    line-height: 60px;
+}
+.menu li{
+    float: left;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto no-repeat, url(../img/bg.jpg) center/cover no-repeat;
+}
+.title_container{
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+.title_container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.title_container h4{
+    font-size: 22px;
+    margin-top: 40px;
+    color: #79818d;
+}
+.title_container input{
+    color: #6d7682;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    border-radius: 8px;
+    font-size: 13px;
+    background: none;
+    padding: 0px 16px;
+    margin: 50px 14px 0px 14px;
+}
+
+
+h2{
+    padding-top: 107px;
+    padding-bottom: 31px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    color: #263244;
+    background: url(../img/trait.png) bottom/auto no-repeat;
+}
+.about_me{
+    height: 494px;
+    background: url(../img/icon_boy.png) 50% 20%/auto no-repeat;
+    padding-top: 288px;
+    text-align: left;
+    margin: 0px 595px 0px 595px;
+}
+.about_me p{
+    color: #3f495a;
+    padding-bottom: 40px;
+}
+.about_me input{
+    text-align: center;
+    background: url(../img/resume.png) 9% 50%/auto no-repeat;
+    color: #6f707e;
+    border: 2px solid #6f707e;
+    border-radius: 8px;
+    font-size: 13px;
+    padding: 10px 12px 10px 32px;
+    margin-left: 275px;
+    
+}
+.what_i_can{
+    margin-top: 98px;
+    height: 523px;
+    background: url(../img/rocket.png) 59% 55%/auto no-repeat, url(../img/notebook.png) 27% 55%/auto no-repeat, url(../img/sign.png) 43% 55%/auto no-repeat, url(../img/gramophone.png) 75% 55%/auto no-repeat, url(../img/bg2.jpg) center/cover no-repeat;
+}
+.what_i_can ul{
+    margin: 183px 0px 0px 410px;
+}
+.what_i_can li{
+    float: left;
+    color: #5d6472;
+    margin-right: 82px;
+    width: 210px;
+    text-align:center;
+}
+.points{
+    color: #d58b43;
+    font-size: 16px;
+    text-align:center;
+    font-weight: 600;
+}
+.string {
+    text-align: center;
+    color: #5d6472;
+    margin: 39px 0px;
+}
+.case{
+    height: 1000px;
+    background: url(../img/my_case.jpg) no-repeat;
+    padding: 628px 0px 0px 388px;
+}
+.CAPS{
+    font-size: 20px;
+    font-weight:600;
+}
+.case p{
+    color: #5d6472;
+    margin: 8px 0px;
+}
+.case input{
+    color:#fff;
+    border: 2px solid;
+    background-color: #63b5ae;
+    padding: 16px 44px;
+    margin-top: 14px;
+    border-radius: 12px;
+}
+.client{
+    float:left;
+    width: 287px;
+}
+.name_of_project{
+    font-size: 20px;
+    font-weight:600;
+}
+.project{
+    width: 1137px;
+    color: #5d6472;
+    font-size: 18px;
+}
+.head_calc{
+    text-align: center;
+    font-size: 33px;
+    font-weight: 700;
+    color: #263244;
+}
+.calcul{
+    padding: 60px 0px 0px 500px;
+    color: #5d6472;
+    font-size: 18px;
+    font-weight:600;
+}
+.calcul select{
+    height: 55px;
+    width: 891px;
+    margin: 23px 0px 50px 0px;
+    background-color: #eee;
+}
+.state{
+    margin-top: 154px;
+    height: 500px;
+    background: url(../img/mark.png) 58% 56%/auto no-repeat, url(../img/smile.png) 26.85% 56%/auto no-repeat, url(../img/staples.png) 42.4% 56%/auto no-repeat, url(../img/cup.png) 74% 56%/auto no-repeat, url(../img/bg3.jpg) center/cover no-repeat;
+}
+.state ul{
+    margin: 165px 0px 0px 430px;
+}
+.state li{
+    text-align: center;
+    float: left;
+    margin-right: 150px;
+    color:#323e4f;
+    font-size: 13px;
+    font-weight:500;
+    text-transform: uppercase;
+}
+.number{
+    font-size: 30px;
+    font-weight:700;
+    color:#323e4f;
+    margin-bottom: 23px;
+}
+.reviews{
+    text-align: center;
+    font-size: 14px;
+    width: 700px;
+    margin-left: 585px;
+}
+.reviews img{
+    margin: 60px 0px 37px 0px;
+}
+.reviews p{
+    margin-bottom: 36px;
+}
+.contact{
+    margin-top: 150px;
+    background: url(../img/tel.png) 62.5% 33%/auto no-repeat, url(../img/mail.png) 50% 33%/auto no-repeat, url(../img/geo.png) 37.3% 33%/auto no-repeat, url(../img/bg4.jpg) center/cover no-repeat;
+    color: #fff;
+    height: 809px;
+    text-align: center;
+}
+.contact ul{
+    margin: 90px 0px 0px 630px;
+}
+.contact li{
+    float: left;
+    margin-right: 90px;
+}
+.contact h2{
+    color: #fff;
+    margin-bottom: 33px;
+}
+.contact h4{
+    padding: 60px 0px 43px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight:500;
+}
+.contact>input{
+    width: 352px;
+    height: 35px;
+    color:#d7dbe1;
+    opacity: 0.7;
+    margin: 0px 15px 14px 15px;
+    padding-left: 14px;
+}
+.contact textarea {
+    width: 734px;
+    height: 95px;
+    color:#d7dbe1;
+    opacity: 0.7;
+    margin-bottom: 30px;
+    padding: 12px 0px 0px 14px;
+}
+.send input{
+    color:#fff;
+    border-radius: 6px;
+    width: 125px;
+    height: 46px;
+    background: url(../img/send_bg.jpg) center/cover no-repeat;
+    border: 3px solid #fff;
+    font-size: 15px;
+    font-weight: 600;
+}
+footer{
+    background: #344051;
+    height: 92px;
+    text-align:center;
+    color: #fff;
+    line-height: 92px;
+}
